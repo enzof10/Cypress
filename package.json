@@ -1,0 +1,20 @@
+{
+  "name": "cypress-e2e-framework",
+  "version": "1.0.0",
+  "description": "E2E Framework for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress:open"
+  },
+  "keywords": [
+    "e2e",
+    "atomation",
+    "framework",
+    "cypress"
+  ],
+  "author": "enzo frias borda",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
