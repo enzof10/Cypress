@@ -4,7 +4,7 @@
   "description": "E2E Framework for testing",
   "main": "index.js",
   "scripts": {
-    "test": "cypress:open"
+    "cypress:open": "cypress open"
   },
   "keywords": [
     "e2e",
