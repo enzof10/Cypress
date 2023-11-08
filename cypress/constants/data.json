@@ -1,0 +1,16 @@
+{
+    "homepageTexts": {
+      "loginText": "Login",
+      "enterText": "Enter your account",
+      "loginButton": "Log in",
+      "noAccountText": "Don't have an account",
+      "contactUsText": "Contactanos",
+      "registerText": "Registrate",
+      "footerText": "Somos estudiantes de la Tecnicatura Superior de Software"
+    },
+    "loginCredentials": {
+      "email": "Enzo_17_05@hotmail.com",
+      "password": "12345678"
+    }
+  }
+  
